@@ -15,7 +15,6 @@ A machine learning solution to identify and classify Distributed Denial-of-Servi
 - [Results](#results)
 - [Sample Visualizations](#sample-visualizations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -162,8 +161,4 @@ Contributions are welcome!
 5. Open a Pull Request
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
