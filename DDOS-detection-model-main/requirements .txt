@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+seaborn
+matplotlib
+
+#pip install -r requirements.txt
