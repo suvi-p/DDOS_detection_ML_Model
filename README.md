@@ -8,7 +8,6 @@ This project leverages the Random Forest classifier to detect DDoS attacks in ne
 
 ## Repository Structure
 DDoS-detection-model/  
-│
 ├── ddos1.csv             # Labeled network traffic dataset  
 ├── ddos1.ipynb           # Jupyter notebook (full pipeline)  
 ├── requirements.txt      # Python dependencies  
