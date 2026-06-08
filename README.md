@@ -14,10 +14,10 @@ DDoS-detection-model/
 └── README.md             # Project documentation  
 
 ## Dataset
-The model trains and evaluates on ddos1.csv, a labeled dataset of network traffic records.
-Features used:
-FeatureDescriptionPacket RateNumber of packets per secondInter-arrival TimeTime gap between consecutive packetsPacket SizeSize of individual packetsDurationLength of the network sessionSource / Destination PortPort numbers on both endsPackets & Bytes TransferredVolume of data exchangedProtocol TypeNetwork protocol (one-hot encoded)
-Target column: label — either benign or ddos
+The model trains and evaluates on ddos1.csv, a labeled dataset of network traffic records.  
+Features used:  
+FeatureDescriptionPacket RateNumber of packets per secondInter-arrival TimeTime gap between consecutive packetsPacket SizeSize of individual packetsDurationLength of the network sessionSource / Destination PortPort numbers on both endsPackets & Bytes TransferredVolume of data exchangedProtocol TypeNetwork protocol (one-hot encoded)  
+Target column: label — either benign or DDOS  
 
 ## Requirements
 
